@@ -1,5 +1,5 @@
 {
-  "package": "hgcn_script",
+  "package": "hnn_hgcn_script",
   "project_dir": "hgcn",
   "models": [
     "HGCN",
